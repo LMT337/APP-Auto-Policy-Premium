@@ -1,2 +1,3 @@
-# APP-Auto-Policy-Premium-
-Python tool that finds the best possible auto policy premiums.
+# Python Auto Agent
+A Python tool for selecting an optimal auto policy based on driver history and
+preferences.
